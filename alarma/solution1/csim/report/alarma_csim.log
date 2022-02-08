@@ -1,0 +1,16 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../alarma.cpp in debug mode
+   Generating csim.exe
+===================== Test1 =====================
+Test 1 (window 1 true) PASSED
+===================== Test2 =====================
+Test 2 (not open) PASSED
+===================== Test3 =====================
+Test 3 (two sensors open) PASSED
+===================== Test4 =====================
+Test 4 (second sensor open) PASSED
+===================== Test5 =====================
+Test 5 (movement 2) PASSED
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

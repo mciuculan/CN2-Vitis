@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xd:acceleratorMap xmlns:xd="http://www.xilinx.com/xidane" xd:functionName="topFunction" xd:componentRef="topFunction" xd:initiationInterval="1" xd:clockPeriod="10" xd:sequential="false" xd:hostMachine="64" xd:reset="control">
+  <xd:arg xd:name="*(x)" xd:originalName="x" xd:direction="out" xd:interfaceRef="x" xd:busTypeRef="register" xd:dataWidth="8"/>
+  <xd:latencyEstimates xd:best-case="0" xd:worst-case="0" xd:average-case="0"/>
+  <xd:resourceEstimates xd:LUT="0" xd:FF="0" xd:BRAM="0" xd:DSP="0"/>
+</xd:acceleratorMap>
